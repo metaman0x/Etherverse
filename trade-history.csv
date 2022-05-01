@@ -1,0 +1,2 @@
+"id","operation","baseCurrency","baseCurrencyAmount","createdAt","quoteCurrency","quoteCurrencyAmount","feeAmount","extraFeeAmount","networkFeeAmount","status"
+"e8e874ce-4a84-4ec2-8c12-94739eaeac4f","buy","usd",140.14,"2021-12-27T08:23:15.983Z","eth",,4.55,0,5.31,"failed"

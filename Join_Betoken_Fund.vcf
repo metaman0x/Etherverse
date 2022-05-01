@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Betoken team
+N;CHARSET=UTF-8:Betoken team;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;#45148,9450 Gilman Dr.;La Jolla;CA;92092;USA
+EMAIL:hello@betoken.fund
+ORG;CHARSET=UTF-8:Betoken Fund
+URL:https://betoken.fund
+END:VCARD
